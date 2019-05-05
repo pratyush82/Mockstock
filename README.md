@@ -3,6 +3,9 @@ Virtual voice-enabled stock market game using Bubble
 
 Link : https://mockstock.bubbleapps.io/
 
+Either register new user or login with your own account.
+[Premade account : "abc@gmail.com" with "qwerty" as password.]
+
 Voice commands : 
 
 Home page : 
